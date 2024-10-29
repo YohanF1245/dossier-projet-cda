@@ -11,7 +11,8 @@ Sommaire
 7 [sécurité](doc/7-securite.md)
 8 [plan de test](/doc/8-plan-test.md)
 9 [jeu d'éssai](/doc/9-jeu-desssai.md)
-10 [veille](/doc/10-veille.md)
+10 [Déploiement/devops](/doc/10-deploiement.md)
+11 [veille](/doc/11-veille.md)
 
 (pour le word: glossaire des compétences avec liens ou elles sont traitées)
 
