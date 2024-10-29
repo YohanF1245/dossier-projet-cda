@@ -1,7 +1,7 @@
 # Dossier projet
 
 Sommaire
-0 screen des competences
+0 [Compétences visées](/doc/0-skills.md)
 1 introduction: présentation personnelle, de l'entreprise, du ou des projets, 
 2 expression du besoin: enjeux, contraintes, problèmatiques, 
 3 gestion de projet: jira, scrum, 
