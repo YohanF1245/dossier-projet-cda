@@ -9,7 +9,7 @@ Sommaire
 5 [specificité techniques](/doc/5-specificites-techniques.md)
 6 [réalisations](/doc/6-realisations.md) (extraits de code)
 7 [sécurité](doc/7-securite.md)
-8 plan de test
+8 [plan de test](/doc/8-plan-test.md)
 9 jeu d'éssai
 10 [veille](/doc/10-veille.md)
 
