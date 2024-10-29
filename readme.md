@@ -13,6 +13,6 @@ Sommaire
 9 jeu d'éssai
 10 [veille](/doc/10-veille.md)
 
-(pour le word: glossaire des compecences avec liens ou elles sont traitées)
+(pour le word: glossaire des compétences avec liens ou elles sont traitées)
 
 Annexes
