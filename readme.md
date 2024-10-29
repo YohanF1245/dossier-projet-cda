@@ -1,7 +1,9 @@
 # Dossier projet
+## Compétences visées
 
-Sommaire
-- 0 [Compétences visées](/doc/0-skills.md)
+![image](/./assets/img/screen-skills.png)
+
+## Sommaire
 - 1 [introduction](/doc/1-Introduction.md): présentation personnelle, de l'entreprise, du ou des projets, 
 - 2 [expression du besoin](/doc/2-expression-du-besoin.md): enjeux, contraintes, problèmatiques, 
 - 3 [gestion de projet](/doc/3-gestion-projet.md): jira, scrum, rdv client
@@ -11,9 +13,8 @@ Sommaire
 - 7 [sécurité](doc/7-securite.md)
 - 8 [plan de test](/doc/8-plan-test.md)
 - 9 [jeu d'éssai](/doc/9-jeu-desssai.md)
-- 10 [Déploiement/devops](/doc/10-deploiement.md)
-- 11 [veille](/doc/11-veille.md)
+- 10 [veille](/doc/10-veille.md)
 
 (pour le word: glossaire des compétences avec liens ou elles sont traitées)
 
-Annexes
+## Annexes
