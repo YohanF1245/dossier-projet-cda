@@ -7,7 +7,7 @@ Sommaire
 3 [gestion de projet](/doc/3-gestion-projet.md): jira, scrum, rdv client
 4 [specificités fonctionnelles](/doc/4-specififites-fonctionnelles.md)
 5 [specificité techniques](/doc/5-specificites-techniques.md)
-6 réalisations (extraits de code)
+6 [réalisations](/doc/6-realisations.md) (extraits de code)
 7 sécurité
 8 plan de test
 9 jeu d'éssai
