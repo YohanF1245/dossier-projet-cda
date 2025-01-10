@@ -1,60 +1,139 @@
-# Dossier projet
-## Compétences visées
+# Documentation du Projet Simplon Bots
 
-![image](/./assets/img/screen-skills.png)
+## Table des Matières
 
-## Sommaire
-- 1 [introduction](/doc/1-Introduction.md): présentation personnelle, de l'entreprise, du ou des projets, 
-- 2 [expression du besoin](/doc/2-expression-du-besoin.md): enjeux, contraintes, problèmatiques, 
-- 3 [gestion de projet](/doc/3-gestion-projet.md): jira, scrum, rdv client
-- 4 [specificités fonctionnelles](/doc/4-specififites-fonctionnelles.md)
-- 5 [specificité techniques](/doc/5-specificites-techniques.md)
-- 6 [réalisations](/doc/6-realisations.md) (extraits de code)
-- 7 [sécurité](doc/7-securite.md)
-- 8 [plan de test](/doc/8-plan-test.md)
-- 9 [jeu d'éssai](/doc/9-jeu-desssai.md)
-- 10 [veille](/doc/10-veille.md)
+### 1. [Compétences](doc/1-competences/README.md)
+- [Screenshots des compétences](doc/1-competences/screenshots/)
+- [Liste détaillée des compétences](doc/1-competences/competences.md)
+- [Justification des compétences](doc/1-competences/README.md#justification)
 
-(pour le word: glossaire des compétences avec liens ou elles sont traitées)
+### 2. [Expression des Besoins](doc/2-expression-besoins/README.md)
+- [Contexte et enjeux](doc/2-expression-besoins/contexte/contexte-et-enjeux.md)
+- [Analyse des besoins](doc/2-expression-besoins/analyse/analyse-besoins.md)
+- [Personas](doc/2-expression-besoins/personas/personas.md)
 
-# Introduction
+### 3. [Présentation de l'Entreprise](doc/3-presentation-entreprise/README.md)
+- [Simplon](doc/3-presentation-entreprise/simplon.md)
+- [Simplon HDF](doc/3-presentation-entreprise/simplon-hdf.md)
+- [Équipes](doc/3-presentation-entreprise/equipes.md)
 
-- 1 [À propos de moi](#à-propos-de-moi)
-- 2 [À propos du client](#à-propos-du-client)
-- 3 [Le projet](#le-projet)
+### 4. [Environnement Humain](doc/4-environnement-humain/README.md)
+- [Team Bot](doc/4-environnement-humain/team-bot.md)
+- [Team Projet](doc/4-environnement-humain/team-projet.md)
+- [Interactions](doc/4-environnement-humain/interactions.md)
 
-## À propos de moi.
+### 5. [Objectifs de Qualité](doc/5-objectifs-qualite/README.md)
+- [Méthodologie](doc/5-objectifs-qualite/methodologie.md)
+- [Organisation](doc/5-objectifs-qualite/organisation.md)
+- [Standards](doc/5-objectifs-qualite/standards.md)
 
-Mon parcours professionnel a commencé avec l'obtention d'un diplôme de Technicien de Maintenance Informatique, où j'ai acquis une solide maîtrise des techniques de maintenance et de dépannage du matériel informatique, ainsi que des notions en réseau. Ce premier pas dans le domaine de l'informatique m'a permis de développer une base technique essentielle et une compréhension approfondie des infrastructures matérielles et des systèmes de réseaux.<br>
+### 6. [Spécifications Fonctionnelles](doc/6-specifications-fonctionnelles/README.md)
+- [Choix de Discord](doc/6-specifications-fonctionnelles/discord-choice.md)
+- [API](doc/6-specifications-fonctionnelles/api-specs.md)
+- [Bots](doc/6-specifications-fonctionnelles/bots-specs.md)
+- [Sécurité](doc/6-specifications-fonctionnelles/security-specs.md)
+- [RBAC](doc/6-specifications-fonctionnelles/rbac-specs.md)
 
-Cherchant toujours à élargir mes horizons et à approfondir mes compétences, j'ai ensuite entrepris un Diplôme d'Accès aux Études Universitaires (DAEU). Cette étape cruciale m'a ouvert la voie vers un Diplôme d'études universitaires scientifiques et techniques Informatique d'organisation et systèmes d'information (DEUST IOSI), où j'ai pu me plonger dans l'univers de la programmation. Cette formation m'a permis de découvrir ma passion pour le code et de renforcer mes compétences techniques.<br>
+### 7. [Architecture Logicielle](doc/7-architecture-logicielle/README.md)
+- [Architecture](doc/7-architecture-logicielle/architecture.md)
+- [Interactions](doc/7-architecture-logicielle/interactions.md)
+- [Dépendances](doc/7-architecture-logicielle/dependencies.md)
+- [Middleware](doc/7-architecture-logicielle/middleware.md)
 
-Autodidacte par nature, j'ai continuellement cherché à élargir mes connaissances et à perfectionner mes compétences en explorant diverses technologies. Je me suis ainsi familiarisé avec les technologies de backend et de frontend, ainsi qu'avec le développement d'applications desktop. Mon aisance avec les bases de données complète cette palette de compétences, me permettant d'aborder des projets complexes avec une vision globale et une expertise technique.<br>
+### 8. [Maquettes](doc/8-maquettes/README.md)
+- [Figma](doc/8-maquettes/figma/)
+- [Wireframes](doc/8-maquettes/wireframes/)
+- [Prototypes](doc/8-maquettes/prototypes/)
 
-Aujourd'hui, fort de ce parcours diversifié et enrichissant, je me fixe un nouvel objectif ambitieux : reprendre mes études dans le but d'obtenir un titre de Concepteur Développeur d'Applications. Cette nouvelle étape représente pour moi un défi stimulant, en phase avec mon aspiration constante à évoluer et à me perfectionner.<br>
+### 9. [Modélisation des Données](doc/9-modelisation-donnees/README.md)
+- [MCD](doc/9-modelisation-donnees/mcd/modele-conceptuel.md)
+- [MLD](doc/9-modelisation-donnees/mld/modele-logique.md)
+- [MPD](doc/9-modelisation-donnees/mpd/modele-physique.md)
 
-Je suis animé par une grande détermination et une soif de challenge. Mon sérieux et mon engagement me poussent à toujours donner le meilleur de moi-même dans chaque projet que j'entreprends. Je crois fermement que chaque défi est une opportunité d'apprentissage et de croissance.<br>
-<br>
+### 10. [Scripts SQL](doc/10-scripts-sql/README.md)
+- [Scripts de création](doc/10-scripts-sql/creation/)
+- [Migrations](doc/10-scripts-sql/migrations/)
+- [Seeds](doc/10-scripts-sql/seeds/)
 
-## Le projet.
+### 11. [Use Case](doc/11-use-case/README.md)
+- [Diagrammes](doc/11-use-case/diagrammes/)
+- [Scénarios](doc/11-use-case/scenarios/)
 
-Le système se décompose comme suit :
+### 12. [Diagrammes de Séquence](doc/12-diagrammes-sequence/README.md)
+- Fonctionnalités principales :
+  1. [Fonctionnalité 1](doc/12-diagrammes-sequence/README.md#fonctionnalite-1)
+  2. [Fonctionnalité 2](doc/12-diagrammes-sequence/README.md#fonctionnalite-2)
+  3. [Fonctionnalité 3](doc/12-diagrammes-sequence/README.md#fonctionnalite-3)
 
-- Une base de données qui contient les informations des utilisateurs (identité,promotion, formation, etc...)
-- Un dashtomatiser des tâches récurrentes liées à la gestion des promotions :
-    - Un bot onboardingboard qui permet de visualiser les information concernant les bots et modifieur leur configuration
-- Les bots qui permettent d'au qui permet de créer des promotions et de les configurer
-    - Un bot signature qui permet de rapidement prévenir les oublis d'émargement
-    - Un bot feedback qui permet de collecter les retours des apprenants
-    - Un bot community qui permet de gérer les partages de ressources
+### 13. [Spécifications Techniques](doc/13-specifications-techniques/README.md)
+- [Benchmark](doc/13-specifications-techniques/benchmark/)
+- [Diagrammes d'activité](doc/13-specifications-techniques/diagrammes/activite/)
+- [Diagrammes de classe](doc/13-specifications-techniques/diagrammes/classe/)
+- [Sécurité](doc/13-specifications-techniques/securite/)
 
-Ce document traite de la partie signature du système.
+### 14. [Extraits de Code](doc/14-extraits-code/README.md)
+- [UI](doc/14-extraits-code/ui/)
+- [Business](doc/14-extraits-code/business/)
+- [Models](doc/14-extraits-code/models/)
+- [Controllers](doc/14-extraits-code/controllers/)
+- [Migrations](doc/14-extraits-code/migrations/)
 
+### 15. [Sécurité](doc/15-securite/README.md)
+- [Base de données](doc/15-securite/database/)
+- [Gestion des accès](doc/15-securite/access/)
+- [Best practices](doc/15-securite/best-practices/)
 
-# Expression du besoin
-La communication est la pierre angulaire du fonctionnement de toute organisation. Dans le cas de Simplon, s'assurer d'une communication fluide est crucial, aussi bien verticalement qu'horizontalement. La complexité de la circulation peut être résumée dans le schéma simplifié ci-dessous.
-![image](/./assets/img/schema-communication.png)
-Il est à noter que si la distance physique entre les divers centres de formation et entre les centres et les alumni paraît évidente, une autre distanciation apparaît avec les formations ouvertes à distance, ce qui renforce encore le besoin d'un système de communication béton.<br>
-Le plan à long terme est de former une communauté dans le but de créer du mentorat entre alumni et apprenants et de créer un canal de recrutement pour les entreprises. Cela mettra de surcroît l'accent sur la collaboration et le partage qui sont des principes clés dans le monde du développement (l'un des meilleurs exemples est le principe de l'open source qui colle parfaitement au mindset des valeurs susnommées).<br>
-Le choix d'une plate-forme de communication s'avère compliqué car il faut tenir compte de plusieurs critères. Discord, malgré ses défauts que nous détaillerons plus bas, a été le meilleur compromis pour sa gratuité, son agnosticisme de plate-forme ainsi que sa popularité.
+### 16. [Tests](doc/16-tests/README.md)
+- [Tests unitaires](doc/16-tests/unitaires/)
+- [Tests E2E](doc/16-tests/e2e/)
 
+### 17. [Jeu d'Essai](doc/17-jeu-essai/README.md)
+- [Scénarios](doc/17-jeu-essai/scenarios/)
+- [Screenshots](doc/17-jeu-essai/screenshots/)
+- [Résultats](doc/17-jeu-essai/resultats/)
+
+### 18. [Veille Technologique](doc/18-veille/README.md)
+- [Sécurité](doc/18-veille/securite/)
+- [Audits](doc/18-veille/audits/)
+- [Rapports](doc/18-veille/rapports/)
+
+### 19. [Annexes](doc/annexes/README.md)
+- [Documents](doc/annexes/documents/)
+- [Ressources](doc/annexes/ressources/)
+- [Références](doc/annexes/references/)
+
+## Description du Projet
+
+Le projet consiste en la création d'un système de gestion pour Simplon comprenant :
+
+### Base de données
+- Informations des utilisateurs
+- Gestion des promotions
+- Suivi des formations
+
+### Dashboard
+- Interface de gestion des bots
+- Configuration des automatisations
+- Monitoring des activités
+
+### Bots Discord
+1. **Bot Onboarding**
+   - Création des promotions
+   - Configuration initiale
+2. **Bot Signature**
+   - Gestion des émargements
+   - Alertes automatiques
+3. **Bot Feedback**
+   - Collecte des retours
+   - Analyse des données
+4. **Bot Community**
+   - Partage de ressources
+   - Animation de la communauté
+
+## Installation
+
+[À venir]
+
+## Contact
+
+[À venir] 
