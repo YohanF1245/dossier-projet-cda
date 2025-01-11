@@ -15,3 +15,11 @@ Le traitement de vos données personnelles est basé sur :
 - L'exécution du contrat de formation
 - Notre intérêt légitime à assurer le bon fonctionnement de la formation
 
+## Finalités du traitement
+
+Les données personnelles collectées sont utilisées pour :
+- Identifier de manière unique les apprenants sur Discord
+- Assurer le suivi pédagogique et administratif
+- Permettre la communication entre les formateurs et les apprenants
+- Générer des statistiques anonymisées sur l'utilisation du système
+
