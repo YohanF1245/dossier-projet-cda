@@ -42,3 +42,13 @@ Conformément au RGPD, vous disposez des droits suivants :
 - Droit d'opposition au traitement
 - Droit de retirer votre consentement à tout moment
 
+## Mesures de sécurité
+
+Nous mettons en œuvre les mesures de sécurité suivantes :
+- Chiffrement des données sensibles
+- Accès restreint aux données personnelles
+- Journalisation des accès et modifications
+- Sauvegardes régulières et sécurisées
+- Mise à jour régulière des systèmes de sécurité
+- Formation du personnel à la protection des données
+
