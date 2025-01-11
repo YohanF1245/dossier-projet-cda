@@ -61,3 +61,12 @@ Nous faisons appel aux sous-traitants suivants :
 
 Ces sous-traitants sont soumis aux mêmes obligations de protection des données et sont sélectionnés pour leurs garanties en matière de sécurité.
 
+## Responsable du traitement
+
+Le responsable du traitement des données est :
+- Nom de l'organisme : Simplon.co
+- Adresse : 55 Rue de Vincennes, 93100 Montreuil
+- Email de contact : dpo@simplon.co
+
+Un registre des activités de traitement est tenu à jour et disponible sur demande auprès du Délégué à la Protection des Données.
+
