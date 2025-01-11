@@ -1,21 +1,54 @@
-# Dossier projet
-## Compétences visées
+# Documentation du Projet
 
-![image](/./assets/img/screen-skills.png)
+## Vue d'ensemble des compétences
+
+![compétences](./Assets/Images/screen-skills.png)
 
 ## Sommaire
-- 1 [introduction](/doc/1-Introduction.md): présentation personnelle, de l'entreprise, du ou des projets, 
-- 2 [expression du besoin](/doc/2-expression-du-besoin.md): enjeux, contraintes, problèmatiques, 
-- 3 [gestion de projet](/doc/3-gestion-projet.md): jira, scrum, rdv client
-- 4 [specificités fonctionnelles](/doc/4-specififites-fonctionnelles.md)
-- 5 [specificité techniques](/doc/5-specificites-techniques.md)
-- 6 [réalisations](/doc/6-realisations.md) (extraits de code)
-- 7 [sécurité](doc/7-securite.md)
-- 8 [plan de test](/doc/8-plan-test.md)
-- 9 [jeu d'éssai](/doc/9-jeu-desssai.md)
-- 10 [veille](/doc/10-veille.md)
 
-(pour le word: glossaire des compétences avec liens ou elles sont traitées)
+### [Présentation du Projet](./Presentation/presentation.md)
+
+### [Spécifications Fonctionnelles](./Specifications_fonctionnelles/README.md)
+- Documentation des Besoins
+  - [Analyse des Besoins](./Specifications_fonctionnelles/Cahier_des_charges/analyse-des-besoins.md)
+  - [Composition de l'Équipe](./Specifications_fonctionnelles/Cahier_des_charges/composition-equipe.md)
+  - [Contexte et Enjeux](./Specifications_fonctionnelles/Cahier_des_charges/contexte-enjeux.md)
+  - [Personas](./Specifications_fonctionnelles/Cahier_des_charges/personnas.md)
+- Gestion du Projet
+  - [Composition de l'Équipe](./Specifications_fonctionnelles/Gestion_du_projet/composition-equipe.md)
+  - [Méthodologie de Travail](./Specifications_fonctionnelles/Gestion_du_projet/methodologie-travail.md)
+- [Règles de Gestion](./Specifications_fonctionnelles/regles-gestion.md)
+
+### [Spécifications Techniques](./Specifications_techniques/README.md)
+- [Architecture N-tiers](./Specifications_techniques/architecture_N-tiers.md)
+- [Questions Globales](./Specifications_techniques/questions-globales.md)
+- Documentation API
+  - [API REST](./Specifications_techniques/API/ApiRest.md)
+  - [Cas d'Utilisation](./Specifications_techniques/API/cas-utilisation.md)
+  - [Choix de la Stack API](./Specifications_techniques/API/choix-stack-api.md)
+  - [Diagramme d'Activité](./Specifications_techniques/API/diagramme-activite.md)
+  - [Diagramme de Classe](./Specifications_techniques/API/diagramme-classe.md)
+  - [Diagramme de Séquence](./Specifications_techniques/API/diagramme-sequence.md)
+  - [RBAC](./Specifications_techniques/API/rbac.md)
+  - [Sécurisation API](./Specifications_techniques/API/securisation-api.md)
+- Documentation Base de Données
+  - [Choix de la Base de Données](./Specifications_techniques/Base_de_données/choix-bdd.md)
+  - [Dictionnaire de Données](./Specifications_techniques/Base_de_données/dictionnaire-donnees.md)
+  - [MCD](./Specifications_techniques/Base_de_données/mcd.md)
+  - [MLD](./Specifications_techniques/Base_de_données/mld.md)
+  - [MPD](./Specifications_techniques/Base_de_données/mpd.md)
+  - [RGPD](./Specifications_techniques/Base_de_données/RGPD.md)
+  - [Scripts BDD](./Specifications_techniques/Base_de_données/script-BDD.md)
+  - [Sécurisation BDD](./Specifications_techniques/Base_de_données/securisation-bdd.md)
+- Documentation Frontend
+  - [Choix de la Stack Frontend](./Specifications_techniques/Front-end/choix-stack-front.md)
+  - [Sécurisation Frontend](./Specifications_techniques/Front-end/securisation-front.md)
+
+### [Résumé du Projet](./Resume_projet/resume_projet.md)
+
+### [Veille Technologique](./Veille/Veille.md)
+
+### [Outils](./Outils/outils.md)
 
 # Introduction
 
