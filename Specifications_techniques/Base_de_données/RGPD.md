@@ -23,3 +23,11 @@ Les données personnelles collectées sont utilisées pour :
 - Permettre la communication entre les formateurs et les apprenants
 - Générer des statistiques anonymisées sur l'utilisation du système
 
+## Durée de conservation
+
+Les données personnelles sont conservées :
+- Pendant toute la durée de la formation
+- Jusqu'à 3 ans après la fin de la formation pour le suivi des diplômés
+- Les données sont automatiquement supprimées après cette période
+- Vous pouvez demander la suppression anticipée de vos données
+
