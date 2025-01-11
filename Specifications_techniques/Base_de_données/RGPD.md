@@ -31,3 +31,14 @@ Les données personnelles sont conservées :
 - Les données sont automatiquement supprimées après cette période
 - Vous pouvez demander la suppression anticipée de vos données
 
+## Droits des utilisateurs
+
+Conformément au RGPD, vous disposez des droits suivants :
+- Droit d'accès à vos données personnelles
+- Droit de rectification des données inexactes
+- Droit à l'effacement (droit à l'oubli)
+- Droit à la limitation du traitement
+- Droit à la portabilité de vos données
+- Droit d'opposition au traitement
+- Droit de retirer votre consentement à tout moment
+
