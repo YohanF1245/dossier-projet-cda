@@ -70,3 +70,21 @@ Le responsable du traitement des données est :
 
 Un registre des activités de traitement est tenu à jour et disponible sur demande auprès du Délégué à la Protection des Données.
 
+## Transferts de données
+
+Les données peuvent être transférées hors de l'Union Européenne dans le cadre de l'utilisation des services Discord. Ces transferts sont encadrés par :
+- Les clauses contractuelles types de la Commission Européenne
+- Le respect du RGPD par nos sous-traitants
+- Des garanties appropriées de protection des données
+
+## Mise à jour de la politique
+
+Cette politique de protection des données peut être mise à jour périodiquement. Les utilisateurs seront informés de toute modification substantielle par :
+- Notification sur Discord
+- Email d'information
+- Message dans l'interface utilisateur
+
+La date de dernière mise à jour est indiquée en bas de ce document.
+
+*Dernière mise à jour : Janvier 2024*
+
