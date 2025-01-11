@@ -52,3 +52,12 @@ Nous mettons en œuvre les mesures de sécurité suivantes :
 - Mise à jour régulière des systèmes de sécurité
 - Formation du personnel à la protection des données
 
+## Sous-traitants
+
+Nous faisons appel aux sous-traitants suivants :
+- Discord : plateforme de communication
+- Hébergeur de base de données : stockage sécurisé
+- Services d'authentification OAuth2
+
+Ces sous-traitants sont soumis aux mêmes obligations de protection des données et sont sélectionnés pour leurs garanties en matière de sécurité.
+
